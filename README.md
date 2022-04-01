@@ -13,4 +13,4 @@ I am ThatsNotM3, a YouTube content-maker, founder of ThatsNotGames game-dev stud
 
 ***
 
-[![ThatsNotM3's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatsnotm3)](https://github.com/anuraghazra/github-readme-stats)
+[![ThatsNotM3's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatsnotm3&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
