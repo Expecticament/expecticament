@@ -1,5 +1,5 @@
 # Hello there 👋
-I am ThatsNotM3, a YouTube content-maker, founder of ThatsNotGames game-dev studio and just a hobbyist making different projects.
+I am ThatsNotM3, a Game Developer, YouTube content-maker and just a casual gamer.
 
 ### «🔗» Links
 [📺• Me on YouTube](https://www.youtube.com/c/ThatsNotM3) 
@@ -10,7 +10,7 @@ I am ThatsNotM3, a YouTube content-maker, founder of ThatsNotGames game-dev stud
 
 [🎮• Check out my Games](https://store.steampowered.com/search/?developer=ThatsNotM3)
 
-[🟠• Me on Reddit](https://www.reddit.com/user/ShadowNotFake)
+[🟠• Me on Reddit](https://www.reddit.com/user/actuallynotm3)
 
 # Some of My Projects 📖
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thatsnotm3&repo=siteinunity)](https://github.com/ThatsNotM3/SiteInUnity)
