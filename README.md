@@ -8,7 +8,7 @@ I am ThatsNotM3, a Game Developer, YouTube content-maker and just a casual gamer
 
 [🌫️• Steam Profile](https://steamcommunity.com/id/ThatsNotM3)
 
-[🎮• Check out my Games](https://store.steampowered.com/search/?developer=ThatsNotM3)
+[🎮• Check out my Games](https://store.steampowered.com/dev/thatsnotgames)
 
 [🟠• Me on Reddit](https://www.reddit.com/user/actuallynotm3)
 
