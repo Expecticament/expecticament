@@ -1,16 +1,9 @@
 # Hello there 👋
-I am ThatsNotM3, a Game Developer, YouTube content-maker and just a casual gamer.
+I am ThatsNotM3, a
+- 🎮 Game developer
+- 📺 YouTube content maker
+- 💻 Hobby programmer
+- 🕹️ Casual gamer
 
-### «🔗» Links
-[📺• YouTube](https://www.youtube.com/c/ThatsNotM3) 
-
-[👥• Discord Server](https://discord.gg/zkacdSH8Vu)
-
-[🎮• My Games on Steam](https://store.steampowered.com/dev/thatsnotgames)
-
-[🌫️• Steam Profile](https://steamcommunity.com/id/ThatsNotM3)
-
-[🟠• Reddit](https://www.reddit.com/user/actuallynotm3)
-
-***
-[![ThatsNotM3's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatsnotm3&theme=tokyonight&show_icons=true)](https://github.com/ThatsNotM3)
+## 🌐» Socials
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/ThatsNotM3) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/actuallynotm3) [![Steam](https://img.shields.io/badge/Steam-2a475e?style=for-the-badge&logo=steam&logoColor=white)](https://reddit.com/user/actuallynotm3)
