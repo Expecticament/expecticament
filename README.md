@@ -1,8 +1,8 @@
 # Hello there 👋
-I am ThatsNotM3, a
+I am a
 - 🎮 Game developer
-- 📺 YouTube content maker
-- 💻 Hobby programmer
+- 💻 Programmer
+- 📺 YouTube content creator
 - 🕹️ Casual gamer
 
 ## 🌐» Socials
